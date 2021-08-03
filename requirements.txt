@@ -1,3 +1,7 @@
+# Assuming python==3.8
+tensorflow==2.2.0
+h5py==2.10.0
+numpy==1.20.1
 cellh5
 pyimagej
 microscopeimagequality
